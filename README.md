@@ -1,0 +1,1 @@
+I have been using HTML and CSS on projects for about 2 months, but this will be my first project using Linux, Git, and Github. I am learning a lot and hope to gain more confidence at the conclusion of this project as well.
