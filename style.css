@@ -1,0 +1,40 @@
+body {
+    text-size: 20px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(16, 51, 16);
+    color: white;
+    font-weight: 200;
+}
+.heading, .links {
+    width: 80%;
+    height: fit-content;
+    padding: 20px;
+    background-color: rgb(168, 48, 48);
+    position: relative;
+    margin: auto;
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    margin-left: -32px;
+    font-size: 30px;
+    color: white;
+}
+
+a :hover {
+    color:rgb(16, 51, 16)
+    background-color: white;
+}
