@@ -8,14 +8,14 @@ body {
     color: white;
     font-weight: 200;
 }
-.heading, .links {
+.heading, .recipes {
     width: 80%;
     height: fit-content;
     padding: 20px;
     background-color: rgb(168, 48, 48);
     position: relative;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 6%;
 }
 
 h1 {
@@ -27,14 +27,14 @@ ul {
     
 }
 
-a {
+.links {
     text-decoration: none;
     margin-left: -32px;
     font-size: 30px;
     color: white;
 }
 
-a :hover {
-    color:rgb(16, 51, 16)
-    background-color: white;
+.links:hover {
+    color: white;
+    background-color: rgb(16, 51, 16);
 }
